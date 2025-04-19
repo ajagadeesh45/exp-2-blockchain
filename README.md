@@ -77,4 +77,7 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+![image](https://github.com/user-attachments/assets/33b2df8e-a74d-4acb-8506-3b0918df0598)
+![image](https://github.com/user-attachments/assets/331d750e-2dd2-41c9-9fa4-edf74f8e9e82)
+
 The crowdfunding contract works correctly, allowing fund withdrawal only if the goal is met, otherwise refunds are given.
